@@ -1,0 +1,16 @@
+{
+  "name": "api_rest_pokemon",
+  "version": "1.0.0",
+  "description": "api de pokemon ",
+  "keywords": [
+    "node.js",
+    "mysql",
+    "javascript"
+  ],
+  "author": "Jose-langL",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  }
+}
